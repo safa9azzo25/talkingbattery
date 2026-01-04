@@ -95,14 +95,14 @@
             "sounds": [
                 {
                     "id": "voice_1",
-                    "name": "test 1",
-                    "url": "https://archive.org/download/Talking-Battery-Sounds/system-coming-on-line-88871.mp3",
+                    "name": "system coming online",
+                    "url": "https://dn721809.ca.archive.org/0/items/Talking-Battery-Sounds/system-coming-on-line-88871.mp3",
                     "type": "Plug"
                 },
                 {
                     "id": "voice_2",
-                    "name": "test 2",
-                    "url": "https://archive.org/download/Talking-Battery-Sounds/system-coming-on-line-88871.mp3",
+                    "name": "start match countdown",
+                    "url": "https://dn721809.ca.archive.org/0/items/Talking-Battery-Sounds/start-match-countdown-1954.mp3",
                     "type": "Plug"
                 }
             ]
@@ -127,3 +127,4 @@
         }
     ]
 }
+
