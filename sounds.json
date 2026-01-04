@@ -88,8 +88,42 @@
           "type": "Plug"
         }
       ]
-    }
-  ]
-
+    },
+        {
+            "id": "voice",
+            "name": "Voice",
+            "sounds": [
+                {
+                    "id": "voice_1",
+                    "name": "test 1",
+                    "url": "https://archive.org/download/Talking-Battery-Sounds/system-coming-on-line-88871.mp3",
+                    "type": "Plug"
+                },
+                {
+                    "id": "voice_2",
+                    "name": "test 2",
+                    "url": "https://archive.org/download/Talking-Battery-Sounds/system-coming-on-line-88871.mp3",
+                    "type": "Plug"
+                }
+            ]
+        },
+        {
+            "id": "others",
+            "name": "Others",
+            "sounds": [
+                {
+                    "id": "other_1",
+                    "name": "car engine start",
+                    "url": "https://archive.org/download/Talking-Battery-Sounds/car-engine-start-1566.mp3",
+                    "type": "Plug"
+                },
+                {
+                    "id": "other_2",
+                    "name": "cool impact movie trailer",
+                    "url": "https://archive.org/download/Talking-Battery-Sounds/cool-impact-movie-trailer-2909.mp3",
+                    "type": "Plug"
+                }
+            ]
+        }
+    ]
 }
-
