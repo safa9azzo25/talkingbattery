@@ -7,13 +7,13 @@
         {
           "id": "animal_remote_1",
           "name": "Cartoon Kitty Meow",
-          "url": "https://github.com/safa9azzo25/talkingbattery/blob/e57464f789945e2a529be822d201f5256ea2792a/cartoon-kitty-begging-meow.mp3",
+          "url": "https://ia600403.us.archive.org/7/items/Talking-Battery-Sounds/cartoon-kitty-begging-meow.mp3",
           "type": "Plug"
         },
         {
           "id": "animal_remote_2",
           "name": "Big Wild Cat",
-          "url": "https://github.com/safa9azzo25/talkingbattery/blob/e57464f789945e2a529be822d201f5256ea2792a/big-wild-cat-scary-roar.mp3",
+          "url": "https://ia600403.us.archive.org/7/items/Talking-Battery-Sounds/big-wild-cat-scary-roar.mp3",
           "type": "Plug"
         }
       ]
@@ -25,19 +25,19 @@
         {
           "id": "scifi_1",
           "name": "Systems Online",
-          "url": "https://github.com/safa9azzo25/talkingbattery/blob/22ad68f8a22a6c9aa6dca5bd9670fc4f0d99e4ce/system-coming-on-line-88871.mp3",
+          "url": "https://ia600403.us.archive.org/7/items/Talking-Battery-Sounds/system-coming-on-line-88871.mp3",
           "type": "Plug"
         },
         {
           "id": "scifi_2",
           "name": "Error-In-The-File-System",
-          "url": "https://github.com/safa9azzo25/talkingbattery/blob/22ad68f8a22a6c9aa6dca5bd9670fc4f0d99e4ce/error-in-the-file-system-149908.mp3",
+          "url": "https://ia600403.us.archive.org/7/items/Talking-Battery-Sounds/error-in-the-file-system-149908.mp3",
           "type": "Plug"
         },
         {
           "id": "scifi_3",
           "name": "Futuristic Transition",
-          "url": "https://github.com/safa9azzo25/talkingbattery/blob/22ad68f8a22a6c9aa6dca5bd9670fc4f0d99e4ce/futuristic-transition.mp3",
+          "url": "https://ia600403.us.archive.org/7/items/Talking-Battery-Sounds/futuristic-transition.mp3",
           "type": "Plug"
         }
       ]
@@ -49,7 +49,7 @@
         {
           "id": "anime_1",
           "name": "Anime Shine Sound Effect",
-          "url": "https://github.com/safa9azzo25/talkingbattery/blob/22ad68f8a22a6c9aa6dca5bd9670fc4f0d99e4ce/anime-shine-sound-effect-346114.mp3",
+          "url": "https://ia600403.us.archive.org/7/items/Talking-Battery-Sounds/anime-shine-sound-effect-346114.mp3",
           "type": "Plug"
         }
       ]
@@ -61,18 +61,18 @@
         {
           "id": "funny_1",
           "name": "Emotional Damage",
-          "url": "https://github.com/safa9azzo25/talkingbattery/blob/22ad68f8a22a6c9aa6dca5bd9670fc4f0d99e4ce/emotional-damage-meme.mp3",
+          "url": "https://ia600403.us.archive.org/7/items/Talking-Battery-Sounds/emotional-damage-meme.mp3",
           "type": "Plug"
         },        {
           "id": "Thank you",
           "name": "Thank you",
-          "url": "https://github.com/safa9azzo25/talkingbattery/blob/22ad68f8a22a6c9aa6dca5bd9670fc4f0d99e4ce/thank.mp3",
+          "url": "https://ia600403.us.archive.org/7/items/Talking-Battery-Sounds/chokran%20ya%203oyouni.mp3",
           "type": "Plug"
         },
         {
           "id": "funny_1",
           "name": "Put it back",
-          "url": "https://github.com/safa9azzo25/talkingbattery/blob/22ad68f8a22a6c9aa6dca5bd9670fc4f0d99e4ce/v1.mp3",
+          "url": "https://ia600403.us.archive.org/7/items/Talking-Battery-Sounds/raja3%20cha7in.mp3",
           "type": "Plug"
         }
       ]
@@ -84,7 +84,7 @@
         {
           "id": "game_1",
           "name": "System coming on line",
-          "url": "https://github.com/safa9azzo25/talkingbattery/blob/22ad68f8a22a6c9aa6dca5bd9670fc4f0d99e4ce/system-coming-on-line-88871.mp3",
+          "url": "https://ia600403.us.archive.org/7/items/Talking-Battery-Sounds/system-coming-on-line-88871.mp3",
           "type": "Plug"
         }
       ]
@@ -92,3 +92,4 @@
   ]
 
 }
+
