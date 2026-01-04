@@ -6,26 +6,14 @@
       "sounds": [
         {
           "id": "animal_remote_1",
-          "name": "Sweet Kitty Meow",
-          "url": "https://archive.org/download/futuristic-transition/sweet-kitty-meow.mp3",
+          "name": "Cartoon Kitty Meow",
+          "url": "https://github.com/safa9azzo25/talkingbattery/blob/e57464f789945e2a529be822d201f5256ea2792a/cartoon-kitty-begging-meow.mp3",
           "type": "Plug"
         },
         {
           "id": "animal_remote_2",
-          "name": "Bird Chirp",
-          "url": "https://archive.org/download/futuristic-transition/bird-327231.mp3",
-          "type": "Plug"
-        },
-        {
-          "id": "animal_remote_3",
-          "name": "Bird Sound",
-          "url": "https://archive.org/download/futuristic-transition/bird-sound-370342.mp3",
-          "type": "Plug"
-        },
-        {
-          "id": "animal_remote_4",
-          "name": "Cartoon Elephant",
-          "url": "https://archive.org/download/futuristic-transition/cartoon-elephant-sound.mp3",
+          "name": "Big Wild Cat",
+          "url": "https://github.com/safa9azzo25/talkingbattery/blob/e57464f789945e2a529be822d201f5256ea2792a/big-wild-cat-scary-roar.mp3",
           "type": "Plug"
         }
       ]
@@ -37,19 +25,19 @@
         {
           "id": "scifi_1",
           "name": "Systems Online",
-          "url": "https://archive.org/download/futuristic-transition/system-coming-on-line-88871.mp3",
+          "url": "https://github.com/safa9azzo25/talkingbattery/blob/22ad68f8a22a6c9aa6dca5bd9670fc4f0d99e4ce/system-coming-on-line-88871.mp3",
           "type": "Plug"
         },
         {
           "id": "scifi_2",
           "name": "Error-In-The-File-System",
-          "url": "https://archive.org/download/futuristic-transition/error-in-the-file-system-149908.mp3",
+          "url": "https://github.com/safa9azzo25/talkingbattery/blob/22ad68f8a22a6c9aa6dca5bd9670fc4f0d99e4ce/error-in-the-file-system-149908.mp3",
           "type": "Plug"
         },
         {
           "id": "scifi_3",
           "name": "Futuristic Transition",
-          "url": "https://archive.org/download/futuristic-transition/futuristic-transition.mp3",
+          "url": "https://github.com/safa9azzo25/talkingbattery/blob/22ad68f8a22a6c9aa6dca5bd9670fc4f0d99e4ce/futuristic-transition.mp3",
           "type": "Plug"
         }
       ]
@@ -61,7 +49,7 @@
         {
           "id": "anime_1",
           "name": "Anime Shine Sound Effect",
-          "url": "https://archive.org/download/futuristic-transition/anime-shine-sound-effect-346114.mp3",
+          "url": "https://github.com/safa9azzo25/talkingbattery/blob/22ad68f8a22a6c9aa6dca5bd9670fc4f0d99e4ce/anime-shine-sound-effect-346114.mp3",
           "type": "Plug"
         }
       ]
@@ -73,7 +61,18 @@
         {
           "id": "funny_1",
           "name": "Emotional Damage",
-          "url": "https://archive.org/download/futuristic-transition/emotional-damage-meme.mp3",
+          "url": "https://github.com/safa9azzo25/talkingbattery/blob/22ad68f8a22a6c9aa6dca5bd9670fc4f0d99e4ce/emotional-damage-meme.mp3",
+          "type": "Plug"
+        },        {
+          "id": "Thank you",
+          "name": "Thank you",
+          "url": "https://github.com/safa9azzo25/talkingbattery/blob/22ad68f8a22a6c9aa6dca5bd9670fc4f0d99e4ce/thank.mp3",
+          "type": "Plug"
+        },
+        {
+          "id": "funny_1",
+          "name": "Put it back",
+          "url": "https://github.com/safa9azzo25/talkingbattery/blob/22ad68f8a22a6c9aa6dca5bd9670fc4f0d99e4ce/v1.mp3",
           "type": "Plug"
         }
       ]
@@ -85,10 +84,11 @@
         {
           "id": "game_1",
           "name": "System coming on line",
-          "url": "https://archive.org/download/futuristic-transition/system-coming-on-line-88871.mp3",
+          "url": "https://github.com/safa9azzo25/talkingbattery/blob/22ad68f8a22a6c9aa6dca5bd9670fc4f0d99e4ce/system-coming-on-line-88871.mp3",
           "type": "Plug"
         }
       ]
     }
   ]
+
 }
