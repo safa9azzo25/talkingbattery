@@ -1,0 +1,94 @@
+{
+  "categories": [
+    {
+      "id": "animals",
+      "name": "Animals",
+      "sounds": [
+        {
+          "id": "animal_remote_1",
+          "name": "Sweet Kitty Meow",
+          "url": "https://archive.org/download/futuristic-transition/sweet-kitty-meow.mp3",
+          "type": "Plug"
+        },
+        {
+          "id": "animal_remote_2",
+          "name": "Bird Chirp",
+          "url": "https://archive.org/download/futuristic-transition/bird-327231.mp3",
+          "type": "Plug"
+        },
+        {
+          "id": "animal_remote_3",
+          "name": "Bird Sound",
+          "url": "https://archive.org/download/futuristic-transition/bird-sound-370342.mp3",
+          "type": "Plug"
+        },
+        {
+          "id": "animal_remote_4",
+          "name": "Cartoon Elephant",
+          "url": "https://archive.org/download/futuristic-transition/cartoon-elephant-sound.mp3",
+          "type": "Plug"
+        }
+      ]
+    },
+    {
+      "id": "scifi",
+      "name": "Sci-Fi & Futuristic",
+      "sounds": [
+        {
+          "id": "scifi_1",
+          "name": "Systems Online",
+          "url": "https://archive.org/download/futuristic-transition/system-coming-on-line-88871.mp3",
+          "type": "Plug"
+        },
+        {
+          "id": "scifi_2",
+          "name": "Error-In-The-File-System",
+          "url": "https://archive.org/download/futuristic-transition/error-in-the-file-system-149908.mp3",
+          "type": "Plug"
+        },
+        {
+          "id": "scifi_3",
+          "name": "Futuristic Transition",
+          "url": "https://archive.org/download/futuristic-transition/futuristic-transition.mp3",
+          "type": "Plug"
+        }
+      ]
+    },
+    {
+      "id": "anime",
+      "name": "Anime & Cartoons",
+      "sounds": [
+        {
+          "id": "anime_1",
+          "name": "Anime Shine Sound Effect",
+          "url": "https://archive.org/download/futuristic-transition/anime-shine-sound-effect-346114.mp3",
+          "type": "Plug"
+        }
+      ]
+    },
+    {
+      "id": "funny",
+      "name": "Funny & Memes",
+      "sounds": [
+        {
+          "id": "funny_1",
+          "name": "Emotional Damage",
+          "url": "https://archive.org/download/futuristic-transition/emotional-damage-meme.mp3",
+          "type": "Plug"
+        }
+      ]
+    },
+    {
+      "id": "gaming",
+      "name": "Gaming & Retro",
+      "sounds": [
+        {
+          "id": "game_1",
+          "name": "System coming on line",
+          "url": "https://archive.org/download/futuristic-transition/system-coming-on-line-88871.mp3",
+          "type": "Plug"
+        }
+      ]
+    }
+  ]
+}
